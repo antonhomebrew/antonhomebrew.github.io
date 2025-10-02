@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "XQ36686W34.com.anton.homebrew.GoofOff"],
+             "components": [
+               {
+                  "/": "/goofoff/falltetris",
+                  "comment": "Goofoff Falltetris"
+               }
+             ]
+           }
+       ]
+   }
+}
